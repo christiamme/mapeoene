@@ -1,5 +1,6 @@
 <?php
   $page = 'about';
+  include "pages/logged.php";
 ?>
 
 <!DOCTYPE html>

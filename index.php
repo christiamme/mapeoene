@@ -1,5 +1,6 @@
 <?php
   $page = 'index';
+  include "pages/logged.php";
 ?>
 
 <!DOCTYPE html>
