@@ -1,5 +1,5 @@
 <?php
-
+ob_start();
 session_start();
 
 // Para propósito de pruebas
@@ -11,7 +11,6 @@ ini_set('display_errors', '1');
 
 // Send to home if session does not exist
 if (!$_SESSION['usuarioene'] or !$_SESSION['nivelene']) {
-    header("location:../login/login.php");
+    header('location: http://www.ecosistemane.com/pages/login.html');
 }
-
-?>
+ob_end_flush();

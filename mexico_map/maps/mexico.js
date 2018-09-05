@@ -3,7 +3,7 @@ hover_color = "#ff5227";
 select_color = "#ffde54";
 
 var describe = new Array();
-describe.pais = "<h1>México</h1><br /><div id='pais'><p>Mexico is a country between the U.S. and Central America that's known for its Pacific and Gulf of Mexico beaches and its diverse landscape of mountains, deserts and jungles. Ancient ruins such as Teotihuacan (Aztec) and Chichen Itza (Mayan) are scattered throughout the country, as are Spanish colonial-era towns. In capital Mexico City, upscale shops, renowned museums and gourmet restaurants cater to modern life.</p></div>";
+describe.pais = "<h1>México</h1><br /><div id='pais'></div>";
 describe.ags = "<h1>Aguascalientes</h1><br /><div id='ags'><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p></div>";
 describe.bc = "<h1>Baja California</h1><br /><div id='bc'><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p></div>";
 describe.bcs = "<h1>Baja California Sur</h1><br /><div id='bcs'><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p></div>";
